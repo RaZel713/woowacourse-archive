@@ -1,6 +1,4 @@
-# 🍋 우아한 테크코스 7기 기록용 레포 🍋
-<p align="center"><img src="우아한테크코스_black.png" height=100px></p>  
-
+# 🍋 2025 우아한 테크코스 7기 기록용 레포 🍋
 [우아한테크코스](https://woowacourse.github.io/) 과정에서 학습 내용을 정리한 레포지토리입니다.
 
 ## ❤️ Level 1 (2025.02.18 ~ 03.31)
@@ -29,6 +27,8 @@
 > ✈️ 유튜버의 여행 정보를 한눈에! `튜립` 프로젝트 진행  
 > 👉 [GitHub 바로가기](https://github.com/woowacourse-teams/2025-Turip)
 
+#### ✏️ 레벨 3 글쓰기: [튜립팀 인터뷰북](https://github.com/woowacourse/woowa-writing/pull/917)
+
 ## 💚 Level 4 & 5 (2025.04.15 ~ 06.13)
 > ✈️ 유튜버의 여행 정보를 한눈에! `튜립` 프로젝트 진행  
 > 👉 [GitHub 바로가기](https://github.com/woowacourse-teams/2025-Turip)
@@ -39,4 +39,13 @@
 | @MVC 프레임워크 구현 | [java-mvc](https://github.com/RaZel713/java-mvc/tree/step3) | [1단계 - @MVC 프레임워크 구현하기](https://github.com/woowacourse/java-mvc/pull/931)</br>[2단계 - 점진적인 리팩터링](https://github.com/woowacourse/java-mvc/pull/1018)</br>[3단계 - JSON View 구현하기](https://github.com/woowacourse/java-mvc/pull/1051) |
 | JDBC 라이브러리 구현 | [java-jdbc](https://github.com/RaZel713/java-jdbc/tree/step4) | [1단계 - JDBC 라이브러리 구현하기](https://github.com/woowacourse/java-jdbc/pull/953)</br>[2단계 - 리팩터링](https://github.com/woowacourse/java-jdbc/pull/971)</br>[3단계 - Transaction 적용하기](https://github.com/woowacourse/java-jdbc/pull/1067)</br>[4단계 - Transaction synchronization 적용하기](https://github.com/woowacourse/java-jdbc/pull/1231) |
 
-#### ✏️ 레벨 4 글쓰기: [테크니컬 라이팅](https://github.com/RaZel713/woowa-writing-razel/blob/level4/technical-writing-level4.md)
+#### ✏️ 레벨 4 글쓰기: [Claude 문서로 본 프롬프트 설계법](https://github.com/RaZel713/woowa-writing-razel/blob/level4/technical-writing-level4.md)
+#### 📷 레벨 4 테코톡: [Youtube) 무한 스크롤과 페이지네이션](https://www.youtube.com/watch?v=uodIYHz4dus) 
+
+## 💙 Study 
+
+| Study | Info | Link |
+| --- | --- | --- |
+| Effecitve Java 발표 스터디 | [Effecitve Java 3/E](https://product.kyobobook.co.kr/detail/S000001033066)를 읽고 해당 내용에 대하여 발표하는 스터디 | [Study-Repo](https://github.com/SangSangPlus/effective-java-study) |
+| 컴구웅 | [혼자 공부하는 컴퓨터 구조 + 운영체제](https://product.kyobobook.co.kr/detail/S000061584886) 책을 읽고 해당 내용에 대하여 정리 & 토론하는 스터디 | --- |
+| 아장아장 | [Doit! 알고리즘 코딩 테스트](https://product.kyobobook.co.kr/detail/S000216912322) 책을 바탕으로 정해진 문제를 풀고 풀이를 공유하는 스터디 | --- |
